@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OverLord228777&layout=compact)](https://github.com/OverLord228777/github-readme-stats)
+
+## 🔗 Links
+[![youtube]([https://www.youtube.com/@LoLOverLord])](https://youtube.com/)
+
 <!--
 **OverLord228777/OverLord228777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
