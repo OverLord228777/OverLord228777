@@ -5,6 +5,9 @@
 ## 🔗 Links
 [![youtube]([https://www.youtube.com/@LoLOverLord])](https://youtube.com/)
 
+
+markdown
+![OverLord228777's GitHub stats](https://github-readme-stats.vercel.app/api?username=OverLord228777&show_icons=true&theme=radical)
 <!--
 **OverLord228777/OverLord228777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
