@@ -3,7 +3,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OverLord228777&layout=compact)](https://github.com/OverLord228777/github-readme-stats)
 
 ## 🔗 Links
-[![youtube]([https://www.youtube.com/@LoLOverLord])](https://youtube.com/)
+<div id="badges">
+  <a href="https://www.youtube.com/@LoLOverLord">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
 
 
 ## 💀 Stats
