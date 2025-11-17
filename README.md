@@ -34,9 +34,9 @@ I'm computer science student, who likes learn programming. There's information a
 </div>
 
 ### 💪 My top langs
-<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OverLord228777&layout=compact)](https://github.com/OverLord228777/github-readme-stats)
-</div>
+
 ## 🚀 What I'm working on
 
 - 🔭 Learning low-level programming in C/C++ and assembly
