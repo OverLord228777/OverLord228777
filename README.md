@@ -2,6 +2,13 @@
 
 I'm computer science student, who likes learn programming. There's information about me:
 
+## 👨‍💻 About Me
+
+🎓 Computer science student with a passion for programming
+🔭 I study low-level programming and system architecture
+🚀 I'm passionate about optimization and creating effective solutions
+📚 I'm constantly learning new technologies and programming languages
+
 ## 🛠️ My languages and tools
 ### 💻 Programming languages
 <div>
