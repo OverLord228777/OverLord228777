@@ -49,7 +49,7 @@ I'm computer science student, who likes learn programming. There's information a
 - 🔭 Learning low-level programming in C/C++ and assembly
 - 🌱 Mastering Rust for systems programming
 - 👯 Looking for interesting open-source projects to participate in
-- 💡 Making TheKazik and update it
+- 💡 Making TheKazik and update it pizdezh
 
 ## 🔗 Links
 <div id="badges">
