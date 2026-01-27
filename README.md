@@ -45,6 +45,8 @@ I'm computer science student, who likes learn programming. There's information a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OverLord228777&layout=compact)](https://github.com/OverLord228777/github-readme-stats)
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OverLord228777)](https://github.com/OverLord228777/github-readme-stats)
+##
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OverLord228777&show_icons=true)
 
 ## 🚀 What I'm working on
 
