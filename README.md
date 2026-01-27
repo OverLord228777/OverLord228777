@@ -45,7 +45,7 @@ I'm computer science student, who likes learn programming. There's information a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OverLord228777&layout=compact)](https://github.com/OverLord228777/github-readme-stats)
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OverLord228777)](https://github.com/OverLord228777/github-readme-stats)
-https://github-readme-streak-stats.herokuapp.com/?user=OverLord228777
+
 ## 🚀 What I'm working on
 
 - 🔭 Learning low-level programming in C/C++ and assembly
