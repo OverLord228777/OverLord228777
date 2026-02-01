@@ -42,9 +42,9 @@ I'm computer science student, who likes learn programming. There's information a
 
 ### 💪 My top langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OverLord228777&layout=compact)](https://github.com/OverLord228777/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OverLord228777&layout=compact&hide=html)](https://github.com/OverLord228777/github-readme-stats)
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OverLord228777&layout=donut)](https://github.com/OverLord228777/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OverLord228777&layout=donut&hide=html)](https://github.com/OverLord228777/github-readme-stats)
 
 ## 🚀 What I'm working on
 
