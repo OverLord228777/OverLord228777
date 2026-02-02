@@ -48,10 +48,10 @@ I'm computer science student, who likes learn programming. There's information a
 
 ## 🚀 What I'm working on
 
-- 🔭 Learning low-level programming in C/C++ and assembly
-- 🌱 Mastering Rust for systems programming
+- 🔭 Learning low-level programming in C/C++ and rust
+- 🌱 Mastering Rust for high-performance and secure programming
 - 👯 Looking for interesting open-source projects to participate in
-- 💡 Making TheKazik and update it pizdezh
+- 💡 Making interesting programs
 
 ## 🔗 Links
 <div id="badges">
