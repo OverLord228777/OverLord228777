@@ -59,7 +59,7 @@ I'm computer science student, who likes learn programming. There's information a
 ## 📊 GitHub statistic
 
 <!-- Топ языков по использованию в репозиториях -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OverLord228777&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OverLord228777&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html)
 
 <!-- Общая статистика -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OverLord228777&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
