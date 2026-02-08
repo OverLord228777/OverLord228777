@@ -41,12 +41,6 @@ I'm computer science student, who likes learn programming. There's information a
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-### 💪 My top langs
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OverLord228777&layout=compact&hide=html)](https://github.com/OverLord228777/github-readme-stats)
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OverLord228777&layout=compact)](https://github.com/OverLord228777/github-readme-stats)
-
 ## 🚀 What I'm working on
 
 - 🔭 Learning low-level programming in C/C++ and rust
@@ -62,12 +56,16 @@ I'm computer science student, who likes learn programming. There's information a
 </div>
 
 
-## 💀 Stats
-![OverLord228777's GitHub stats](https://github-readme-stats.vercel.app/api?username=OverLord228777&show_icons=true&theme=radical)
+## 📊 GitHub statistic
 
-## 🔥 GitHub Streak
+<!-- Топ языков по использованию в репозиториях -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OverLord228777&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=OverLord228777&theme=nord&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<!-- Общая статистика -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OverLord228777&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+<!-- Стрик активности -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=OverLord228777&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 <!--
