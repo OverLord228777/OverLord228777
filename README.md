@@ -14,7 +14,7 @@ I'm computer science student, who likes learn programming. There's information a
 ### 💻 Programming languages
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png?20201031132917" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="CPP" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/330px-ISO_C%2B%2B_Logo.svg.png?20170928190710" title="C++" alt="CPP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kotlin_icon_%282016-2021%29.svg/1280px-Kotlin_icon_%282016-2021%29.svg.png" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="csharp" width="40" height="40"/>&nbsp;
