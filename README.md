@@ -13,14 +13,13 @@ I'm computer science student, who likes learn programming. There's information a
 ## 🛠️ My languages and tools
 ### 💻 Programming languages
 <div>
-  <img src="https://avatars.mds.yandex.net/i?id=c74254e9f1858c28e025a197774785a0f37df3b2-10096158-images-thumbs&n=13" title="Asm" alt="Asm" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png?20201031132917" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png?20210422185554" title="C++" alt="CPP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kotlin_icon_%282016-2021%29.svg/1280px-Kotlin_icon_%282016-2021%29.svg.png" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;-->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/C-Sharp_Logo.svg/330px-C-Sharp_Logo.svg.png?20240807050839" title="C#" alt="csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="https://prev.rust-lang.org/logos/rust-logo-256x256.png" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
 </div>
 
 ### 🎨 Frontend
