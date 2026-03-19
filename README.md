@@ -25,7 +25,8 @@ I'm computer science student, who likes learn programming. There's information a
 ### 🎨 Frontend
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScrit" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://www.sfml-dev.org/download/goodies/sfml-icon-mini.png" title="SFML" alt="SFML" width="40" height="40"/>&nbsp;
 </div>
 
 ### 🗄️ Data Bases
