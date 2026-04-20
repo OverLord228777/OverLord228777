@@ -13,8 +13,8 @@ I'm computer science student, who likes learn programming. There's information a
 ## 🛠️ My languages and tools
 ### 💻 Programming languages
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png?20201031132917" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png?20210422185554" title="C++" alt="CPP" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png?20201031132917" title="C" alt="C" width="45" height="45"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png?20210422185554" title="C++" alt="CPP" width="45" height="45"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/C-Sharp_Logo.svg/330px-C-Sharp_Logo.svg.png?20240807050839" title="C#" alt="csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="45" height="45"/>&nbsp;
