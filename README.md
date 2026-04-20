@@ -17,12 +17,13 @@ I'm computer science student, who likes learn programming. There's information a
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png?20210422185554" title="C++" alt="CPP" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/C-Sharp_Logo.svg/330px-C-Sharp_Logo.svg.png?20240807050839" title="C#" alt="csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="45" height="45"/>&nbsp;
 </div>
 
 ### 🎨 Frontend
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  
   <img src="https://www.sfml-dev.org/download/goodies/sfml-icon-mini.png" title="SFML" alt="SFML" width="40" height="40"/>&nbsp;
 </div>
 
