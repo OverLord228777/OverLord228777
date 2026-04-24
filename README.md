@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-I'm computer science student, who likes learn programming. There's information about me:
+I'm computer science student, who likes learn programming and administration. There's information about me:
 
 ## 👨‍💻 About Me
 
 - 🎓 Computer science student with a passion for programming
-- 🔭 I study low-level programming and system architecture
-- 🚀 I'm passionate about optimization and creating effective solutions
-- 📚 I'm constantly learning new technologies and programming languages
+- 🔭 I study programming, databases and architecture
+- 🚀 Python and go are my main languages
+- 📚 I'm constantly learning new technologies
 - 🎵 I love listening to Rammstein and Yura Khoy
 
 ## 🛠️ My languages and tools
@@ -23,7 +23,6 @@ I'm computer science student, who likes learn programming. There's information a
 ### 🎨 Frontend
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  
   <img src="https://www.sfml-dev.org/download/goodies/sfml-icon-mini.png" title="SFML" alt="SFML" width="40" height="40"/>&nbsp;
 </div>
 
@@ -38,17 +37,16 @@ I'm computer science student, who likes learn programming. There's information a
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="pycharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="CLion" alt="clion" width="40" height="40"/>&nbsp;
-  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="intellig" width="40" height="40"/>&nbsp;-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 ## 🚀 What I'm working on
 
-- 🔭 Learning computer networks in C++, python and C#
-- 🌱 Mastering Rust for high-performance and secure programming
-- 👯 Looking for interesting open-source projects to participate in
-- 💡 Making interesting programs
+- 🔭 Learning computer networks in python and go
+- 🐳 learning a docker, git and CI/CD
+- 👯 Searching an internship and programmers team
+- 💡  Making interesting programs
 
 ## 🔗 Links
 <div id="badges">
