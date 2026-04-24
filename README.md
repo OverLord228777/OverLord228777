@@ -9,37 +9,6 @@ I'm computer science student, who likes learn programming and administration. Th
 - 🚀 Python and go are my main languages
 - 📚 I'm constantly learning new technologies
 
-## 🛠️ My languages and tools
-### 💻 Programming languages
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png?20201031132917" title="C" alt="C" width="45" height="45"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/C%2B%2B_logo.png?20210422185554" title="C++" alt="CPP" width="45" height="45"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/C-Sharp_Logo.svg/330px-C-Sharp_Logo.svg.png?20240807050839" title="C#" alt="csharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="45" height="45"/>&nbsp;
-</div>
-
-### 🎨 Frontend
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://www.sfml-dev.org/download/goodies/sfml-icon-mini.png" title="SFML" alt="SFML" width="40" height="40"/>&nbsp;
-</div>
-
-### 🗄️ Data Bases
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
-</div>
-
-### 🔧 Tools
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="Visual Studio 2022" alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="pycharm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="CLion" alt="clion" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
-
 ## 🚀 What I'm working on
 
 - 🔭 Learning computer networks in python and go
