@@ -5,6 +5,7 @@ I'm computer science student, who likes learn programming and administration. Th
 ## 👨‍💻 About Me
 
 - 🎓 Computer science student with a passion for programming
+- ⚡ Work with virtual machines(Windows10, Linux Ubuntu/Ubuntu Server) at VirtualBox 
 - 🔭 I study programming, databases and architecture
 - 🚀 Python and go are my main languages
 - 📚 I'm constantly learning new technologies
