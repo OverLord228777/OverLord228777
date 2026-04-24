@@ -51,6 +51,9 @@ I'm computer science student, who likes learn programming and administration. Th
 ## 🔗 Links
 <div id="badges">
   <a href="https://www.youtube.com/@LoLOverLord">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://t.me/OverHub228">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
