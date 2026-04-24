@@ -8,7 +8,6 @@ I'm computer science student, who likes learn programming and administration. Th
 - 🔭 I study programming, databases and architecture
 - 🚀 Python and go are my main languages
 - 📚 I'm constantly learning new technologies
-- 🎵 I love listening to Rammstein and Yura Khoy
 
 ## 🛠️ My languages and tools
 ### 💻 Programming languages
