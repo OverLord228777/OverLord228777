@@ -9,12 +9,23 @@ I'm computer science student, who likes learn programming and administration. Th
 - 🚀 Python and go are my main languages
 - 📚 I'm constantly learning new technologies
 
+<!-- Топ языков по использованию в репозиториях -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OverLord228777&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html)
+
 ## 🚀 What I'm working on
 
 - 🔭 Learning computer networks in python and go
 - 🐳 learning a docker, git and CI/CD
 - 👯 Searching an internship and programmers team
 - 💡  Making interesting programs
+
+## 📊 GitHub statistic
+
+<!-- Общая статистика -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OverLord228777&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+
+<!-- Стрик активности -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=OverLord228777&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 🔗 Links
 <div id="badges">
@@ -25,20 +36,6 @@ I'm computer science student, who likes learn programming and administration. Th
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-
-
-## 📊 GitHub statistic
-
-<!-- Топ языков по использованию в репозиториях -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OverLord228777&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html)
-
-<!-- Общая статистика -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OverLord228777&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-
-<!-- Стрик активности -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=OverLord228777&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app)
 <!--
 **OverLord228777/OverLord228777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
