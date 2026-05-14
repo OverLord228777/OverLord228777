@@ -8,7 +8,7 @@ I'm computer science student, who likes learn programming and administration. Th
 - ⚡ Work with virtual machines(Windows10, Linux Ubuntu/Ubuntu Server) at VirtualBox
 - 🏭 I have experience in enterprise development using 1C
 - 🔭 I study programming, databases and architecture
-- 🚀 Python and Go are my main languages
+- 🚀 Python and C# are my main languages
 - 📚 I'm constantly learning new technologies
 
 <!-- Топ языков по использованию в репозиториях -->
